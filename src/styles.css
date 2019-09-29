@@ -1,0 +1,18 @@
+.height-80 {
+  min-height: 80vh;
+}
+.title-underline {
+  width: 150px;
+  height: 5px;
+  margin: 0 auto;
+}
+.about-picture {
+  background: url(../src/img/adventure-algeria-daylight-2245436.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+#progress {
+  background: linear-gradient(to right, rgba(0,0,0,.5), rgba(0,0,0,.5)) ,url(../src/img/progress.jpg) center/cover no-repeat fixed;
+}
